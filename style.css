@@ -156,6 +156,14 @@ footer i{
     font-size: 22px;
 }
 
+@media only screen and (max-width: 600px){
+	.arrah{
+    padding-top:0px!important;
+}
+.arrah-1{
+    padding-top:150px;
+}
+}
 .arrah{
     padding-top:275px!important;
 }
